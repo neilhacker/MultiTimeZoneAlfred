@@ -3,6 +3,9 @@ This is based off the workflow by Dean Jackson from this thread: https://www.alf
 
 Changes inspired by tweet by Devon: https://twitter.com/devonzuegel/status/1433507909808316425
 
-Basically write some time in a format like "12:45pm" select this text the press hotkey and it will convert it to "12:45am PT / 3:45am ET / 8:45am GMT". If you go into the alfred workflow you can change the actual timezones you want and the ordering.
+To use write time and then highlight the text and press hotkey. The functionality is:
 
-Currently to make this work you need to include minutes as well not just have something like 4pm as this won't work with the current regex check.
+10am -> 10:00am PT / 1:00pm ET / 6:00pm GMT
+10:45am -> 10:45am PT / 1:45pm ET / 6:45pm GMT
+
+If you go into the alfred workflow you can change the actual timezones you want and the ordering.
