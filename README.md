@@ -1,7 +1,7 @@
 # MultiTimeZoneAlfred
 This is based off the workflow by Dean Jackson from this thread: https://www.alfredforum.com/topic/16680-paste-different-timezones-hotkey-using-selected-time-text/
 
-Changes inspired by tweet by Devon: https://twitter.com/devonzuegel/status/1433507909808316425
+Changes inspired by a tweet from Devon: https://twitter.com/devonzuegel/status/1433507909808316425
 
 To use write time and then highlight the text and press hotkey. The functionality is:
 
